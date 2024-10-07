@@ -18,6 +18,6 @@ console.log(convertedText); // "This is a ✨ emoji!"
 
 ## Installation
 
-```bash
+````bash
 npm install emojify-07
 
