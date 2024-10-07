@@ -16,7 +16,7 @@ const convertedText = convertEmojis(text);
 
 console.log(convertedText); // "This is a ✨ emoji!"
 
-## Installation
+### Installation
 
 ````bash
 npm install emojify-07
