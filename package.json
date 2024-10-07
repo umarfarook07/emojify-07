@@ -1,0 +1,24 @@
+{
+  "name": "emojify-07",
+  "version": "1.0.0",
+  "description": "'A simple JavaScript package to convert text representations of emojis into actual emoji characters.'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umarfarook07/emojify-07.git"
+  },
+  "keywords": [
+    "emoji",
+    "emoji-converter",
+    "text-to-emoji"
+  ],
+  "author": "umarfarook07",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umarfarook07/emojify-07/issues"
+  },
+  "homepage": "https://github.com/umarfarook07/emojify-07#readme"
+}
