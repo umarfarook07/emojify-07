@@ -8,9 +8,10 @@ const emojiMap = {
     ':surprised:': '😲',
 };
 
-function convertEmojis(text) {
+const convertEmojis = (text) => {
     return text.replace(/:\w+:/g, (match) => emojiMap[match] || match);
-}
+};
+
 
 module.exports = {
     convertEmojis,
