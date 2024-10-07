@@ -14,7 +14,7 @@ addEmoji(':custom:', '✨');
 const text = "This is a :custom: emoji!";
 const convertedText = convertEmojis(text);
 
-console.log(convertedText); 
+console.log(convertedText); // "This is a ✨ emoji!"
 
 ## Installation
 
